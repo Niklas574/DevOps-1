@@ -1,23 +1,28 @@
-1. DevOps (Development und Operation) sind Praktiken, sie fördern die Zusammenarbeit zwischen den Devs und den Ops. 
+# DevOps
+##1. DevOps (Development und Operation) 
+> sind Praktiken, sie fördern die Zusammenarbeit zwischen den Devs und den Ops. 
 
-Continuous Integration (CI): Entwickler integrieren regelmäßig ihren Code in ein gemeinsames Repository, und automatisierte Build- und Testprozesse werden durchgeführt, um die Qualität des Codes sicherzustellen.
+### Continuous Integration (CI): 
+> Entwickler integrieren regelmäßig ihren Code in ein gemeinsames Repository, und automatisierte Build- und Testprozesse werden durchgeführt, um die Qualität des Codes sicherzustellen.
 
-Continuous Deployment (CD): Dieser Ansatz beinhaltet die automatische Bereitstellung von Codeänderungen in einer Produktionsumgebung, sobald sie durch die CI-Prozesse genehmigt wurden.
+### Continuous Deployment (CD): 
+> Dieser Ansatz beinhaltet die automatische Bereitstellung von Codeänderungen in einer Produktionsumgebung, sobald sie durch die CI-Prozesse genehmigt wurden.
 
-2. Iot (Internet of Things): Das Internet der Dinge oder IoT(Internet of Things) ist ein System miteinander verbundener Rechner, die ohne menschliches Zutun Daten über ein drahtloses Netzwerk erfassen und übertragen können.
+## 2. Iot (Internet of Things): 
+> Das Internet der Dinge oder IoT(Internet of Things) ist ein System miteinander verbundener Rechner, die ohne menschliches Zutun Daten über ein drahtloses Netzwerk erfassen und übertragen können.
 
 Iot's werden oft im Alltag benutzt. Ein Beispiel dafür wären Smartwatches, Fitness Tracker, Kabellose Kopfhörer, Smart Homes, Selbstfahrende Autos, ...
  
-3. Bicep: Bicep ist eine Deklarationssprache für die Definition von Azure Ressourcen.
+## 3. Bicep: Bicep ist eine Deklarationssprache für die Definition von Azure Ressourcen.
  - Bicep Dateien sind einfacher Lesbar als Json Dateien 
  - Unterstützung für alle Ressourcentypen und API-Versionen
  - Es ist eine Einfache Syntax gegeben 
  
-4. Die Azure Subscription ist ein Abonement das den Zugriff auf die Azure Platform ermöglicht.
+## 4. Die Azure Subscription ist ein Abonement das den Zugriff auf die Azure Platform ermöglicht.
 
    Azure Resource Groups (Ressourcengruppen) sind logische Container, die dazu dienen, Ressourcen in Microsoft Azure zu organisieren und zu verwalten. Eine Ressourcengruppe ist eine Sammlung von Azure-Ressourcen, die gemeinsam behandelt, bereitgestellt, überwacht und gelöscht werden können. Die Verwendung von Ressourcengruppen erleichtert die Organisation und das Management von Ressourcen, insbesondere in komplexen Azure-Umgebungen.
 
-5. Ein Blob Storage (Binary Large Object Storage) ist eine Form des Cloud-Speichers, der speziell für die Speicherung von großen Mengen unstrukturierter Daten optimiert ist. Blobs sind binäre Daten, die in der Regel große Dateien wie Bilder, Videos, Audiodateien oder andere nicht-strukturierte Daten repräsentieren.
+## 5. Ein Blob Storage (Binary Large Object Storage) ist eine Form des Cloud-Speichers, der speziell für die Speicherung von großen Mengen unstrukturierter Daten optimiert ist. Blobs sind binäre Daten, die in der Regel große Dateien wie Bilder, Videos, Audiodateien oder andere nicht-strukturierte Daten repräsentieren.
 
 Der Block Blob wird zur Speicherung von großen unstrukturierten Daten verwendet und ist daher ideal für Szenarien wie die Speicherung von Mediendateien, Backups und Archivierung. 
 
